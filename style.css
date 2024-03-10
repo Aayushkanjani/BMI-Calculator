@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(64b9451865a683fd39bccfa1_5f6e93d250a6d04f4eae9f02_Backgrounds-WFU-thumbnail-\(size\).jpeg);
+
+}
+.container title{
+    margin: 14px;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+}
+.container input{
+    background-color: rgb(219, 124, 216); 
+    /* background-color: transparent; */
+    border: none;
+    margin: 14px;
+    padding: 18px 25px;
+    font-size: 18px;
+    border-radius: 10px;
+    width: 60%;
+    
+    /* outline: none; */
+}
